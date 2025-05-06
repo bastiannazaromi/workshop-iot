@@ -13,8 +13,8 @@ String urlSimpan = "http://192.168.21.55/monitoring/controllers/data.php?simpan=
 
 String respon;
 
-#define WIFI_SSID "Bas"
-#define WIFI_PASSWORD "12345678"
+#define WIFI_SSID "PoltekHarber"
+#define WIFI_PASSWORD "poltekharber"
 
 // Sensor Ultrasonik
 

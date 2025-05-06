@@ -13,8 +13,8 @@ String urlGetKontrol = "http://192.168.21.55/monitoring/controllers/kontrol.php?
 
 String statusRelay;
 
-#define WIFI_SSID "Bas"
-#define WIFI_PASSWORD "12345678"
+#define WIFI_SSID "PoltekHarber"
+#define WIFI_PASSWORD "poltekharber"
 
 #define pinRelay D5
 
